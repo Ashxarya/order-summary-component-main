@@ -124,7 +124,7 @@
     margin-left: 1.5em;
   }
 
-  .card_plan_left h5 {
+  .card_plan_left h2 {
     font-weight: 900;
     font-size: 1rem;
     color: var(--neaut-dark-blue);
